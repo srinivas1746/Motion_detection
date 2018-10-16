@@ -52,8 +52,8 @@ while cap.isOpened():
                 cv2.imshow('frame1',final_image)
                 
         
-        #if cv2.waitKey(1) & 0xFF == ord('q'):
-         #  break
+        if cv2.waitKey(1) & 0xFF == ord('q'):
+           break
 
 
 cap.release()
