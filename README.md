@@ -15,3 +15,7 @@ Note:
 Method: I have used lucas kanade algorithm to detect the optical flow of an objects in successive frames
 
 # Results:
+![figure_1](https://user-images.githubusercontent.com/40050770/46998300-cb5fd400-d13f-11e8-9f60-1d33b588898d.png)
+![figure_1-1](https://user-images.githubusercontent.com/40050770/46998315-d31f7880-d13f-11e8-8ce4-835ba91c8d8c.png)
+![figure_1-2](https://user-images.githubusercontent.com/40050770/46998319-d6b2ff80-d13f-11e8-8602-614454412dcb.png)
+![figure_1-3](https://user-images.githubusercontent.com/40050770/46998324-d9adf000-d13f-11e8-847a-1e66710c4c6e.png)
