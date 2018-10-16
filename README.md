@@ -1,5 +1,6 @@
 # Motion_detection
- # Method:
+
+Method:
      I am detection motion by using successive frame subtraction in a video file or webcam and i am using contours to represent the motion.
 
 Note: 
