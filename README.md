@@ -10,3 +10,8 @@ Note:
 ![screenshot from 2018-10-16 11 51 14](https://user-images.githubusercontent.com/40050770/46997285-f268d680-d13c-11e8-8030-ba9aabed57ff.png)
 ![screenshot from 2018-10-16 11 50 39](https://user-images.githubusercontent.com/40050770/46997376-29d78300-d13d-11e8-90af-996c5d1f7e0f.png)
 
+# Motion_tracking
+
+Method: I have used lucas kanade algorithm to detect the optical flow of an objects in successive frames
+
+# Results:
